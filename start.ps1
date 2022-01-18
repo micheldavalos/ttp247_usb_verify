@@ -78,3 +78,5 @@ if ($_proccess.MainWindowTitle -eq "USB Server") {
 }else {
     [System.Windows.MessageBox]::Show('Arranca USB Server', 'Error')
 }
+
+# Motor_Print_Robot.exe
